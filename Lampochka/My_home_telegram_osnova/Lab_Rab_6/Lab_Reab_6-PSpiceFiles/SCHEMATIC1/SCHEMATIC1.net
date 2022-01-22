@@ -1,0 +1,14 @@
+* source LAB_REAB_6
+L_L3         N15497 0  1000uH  
+V_V1         N15486 0  AC 1
++SIN 0 5 50k 0 0 0
+R_R2         0 N15493  10k TC=0,0 
+R_R7         0 N15497  1k TC=0,0 
+R_R8         N15497 N15493  1k TC=0,0 
+R_R9         N15493 N15486  1k TC=0,0 
+V_V2         N17878 0  AC 1
++SIN 0 5 50k 0 0 0
+R_R13         0 N17888  10k TC=0,0 
+R_R10         N17888 N17878  1k TC=0,0 
+R_R11         N17922 N17888  1k TC=0,0 
+R_R12         0 N17922  1k TC=0,0 
