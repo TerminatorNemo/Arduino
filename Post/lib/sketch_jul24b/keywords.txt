@@ -1,0 +1,9 @@
+BMP208	KEYWORD2
+BMP_208_Forced_mode	KEYWORD2
+BMP_208_pressure_read	KEYWORD2
+BMP_208_temp_read	KEYWORD2
+BMP_208_init	KEYWORD2
+BMP_208_read	KEYWORD2
+bmp280_calculate_temp	KEYWORD2
+bmp280_calculate_pressure	KEYWORD2
+above_the_sea	KEYWORD2

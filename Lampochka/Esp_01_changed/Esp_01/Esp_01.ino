@@ -12,13 +12,13 @@
 
 
 //SSID and Password of your WiFi router
-const char* ssid = "******";
-const char* password = "********";
+const char* ssid = "Hostel-7";
+const char* password = "12345678";
 
 
 /*
- * const char* ssid = "********";
-const char* password = "********";
+ * const char* ssid = "Kyivstar_F0E6";
+const char* password = "48544854";
  * 
  */
 const int relay = 1;   // реле на 0м контаке, диод на 1м
