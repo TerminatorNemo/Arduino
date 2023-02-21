@@ -6,5 +6,4 @@
  - [AyrSoftBomb](https://github.com/TerminatorNemo/Arduino/tree/main/AyrSoftBomb) Timer with 3 modes of operation. For playing airsoft. [Video with instructions for the 1st version](https://www.youtube.com/watch?v=ADUwG_yn8EQ)
  - Radio controlled aircraft, [Transmitter code](https://github.com/TerminatorNemo/Arduino/tree/main/tx_servo_peredacha_camolet_pylt_2.6), [Receiver code](https://github.com/TerminatorNemo/Arduino/tree/main/rx_servo_priom_camoleta_zashita_Potera_svazi_2.5)
 
-Google(https://www.google.com/?hl=RU)
  
